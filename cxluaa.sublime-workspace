@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"production"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"blc",
+				"block"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"sess",
+				"sessionId"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"ano",
+				"anotherPic"
+			],
+			[
+				"hi",
+				"hide  (function)"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1525,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/record.js",
+			"settings":
+			{
+				"buffer_size": 1513,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/db.js",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Downloads/turn.js-master/turn.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/E/Downloads/turn.js-master/demos/magazine/index.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Downloads/turn.js-master/turn.min.js",
+		"/C/Users/0100001027/AppData/Roaming/Foxmail/FoxmailTemp(7)/FieldOptionListSg.java",
+		"/E/Dropbox/nodejs/cxluaa/settings.js",
+		"/E/Dropbox/nodejs/cxluaa/models/db.js",
+		"/E/Downloads/gatest.html",
+		"/E/Dropbox/nodejs/cxluaa/models/record.js",
+		"/E/Dropbox/nodejs/cxluaa/app.js",
+		"/E/Dropbox/nodejs/cxluaa/routes/index.js",
+		"/E/Downloads/test.html",
+		"/E/Downloads/test4.html",
+		"//10.20.39.21/b2c_usr/cxlcs/config/customconfig/ka.properties",
+		"//10.20.39.22/b2c_usr/cxlcs/config/customconfig/ka.properties",
+		"/E/WorkTmp/邮箱调整程序清单.list",
+		"/E/Downloads/test.java",
+		"/E/Downloads/test3.html",
+		"/C/Users/0100001027/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/0100001027_view2/radworkspace/CXLCS/WebContent/html/KA/js/jquery-1.6.4.min.js",
+		"/C/Users/0100001027/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/0100001027/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/E/百度云/业务常用/客服交接/客服批次.TXT",
+		"/E/Dropbox/nodejs/cxluaa/node_modules/mongodb/install.js",
+		"/E/Documents/Downloads/test.html",
+		"/E/Documents/Downloads/test2.html",
+		"/E/Dropbox/nodejs/cxluaa/routes/record.js",
+		"/E/Dropbox/nodejs/weibo/routes/index.js",
+		"/E/Dropbox/nodejs/cxluaa/routes/mouseClick.js",
+		"/E/Dropbox/nodejs/microblog/routes/index.js",
+		"/E/Dropbox/nodejs/cxluaa/routes/mouseBlur.js",
+		"/E/Dropbox/nodejs/microblog/app.js",
+		"/E/Dropbox/nodejs/weibo/app.js",
+		"/E/Dropbox/nodejs/cxluaa/models/mouseBlur.js",
+		"/E/Dropbox/nodejs/weibo/models/user.js",
+		"/E/Dropbox/nodejs/weibo/settings.js",
+		"/D/cxluaa/package.json",
+		"/E/Dropbox/nodejs/microblog/microblog.sublime-project",
+		"/D/cxluaa/app.js",
+		"/D/cxluaa/views/index.jade",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/SaveImage.java                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CJava+Source%5Ccom%5Ccathay%5Cat%5Cq0%5Cmodule%5CSaveImage.java",
+		"/D/0100001027_view_1/workspace/CXLCS/Java Source/com/cathay/at/q0/module/SaveImage.java",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/cathay_mobile.js                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5Cjs%5Ccathay_mobile.js",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ0_MENU.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0100%5CATQ0_MENU.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00200.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0200%5CATQ00200.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0200/ATQ00200.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00020.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0020%5CATQ00020.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0020/ATQ00020.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0100/ATQ0_MENU.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/js/cathay_mobile.js",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00150.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0150%5CATQ00150.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0170/ATQ00170.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/camera.js                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5Cjs%5Ccamera.js",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/js/camera.js",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00170.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0170%5CATQ00170.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0150/ATQ00150.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00171.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0170%5CATQ00171.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/sign.js                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5Cjs%5Csign.js",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00180.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0180%5CATQ00180.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00172.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0170%5CATQ00172.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0170/ATQ00172.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/js/sign.js",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0170/ATQ00171.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0180/ATQ00180.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ00160.jsp                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CWeb+Content%5Chtml%5CAT%5CQ0%5CATQ0_0160%5CATQ00160.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ0_0160.java                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CJava+Source%5Ccom%5Ccathay%5Cat%5Cq0%5Ctrx%5CATQ0_0160.java",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ0_0120.java                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CJava+Source%5Ccom%5Ccathay%5Cat%5Cq0%5Ctrx%5CATQ0_0120.java",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/GBK Encoding Support/tmp/ATQ0_0170.java                D%3A%5C0100001027_view_1%5Cworkspace%5CCXLCS%5CJava+Source%5Ccom%5Ccathay%5Cat%5Cq0%5Ctrx%5CATQ0_0170.java",
+		"/D/0100001027_view_1/workspace/CXLCS/Java Source/com/cathay/at/q0/trx/ATQ0_0120.java",
+		"/D/0100001027_view_1/workspace/CXLCS/Java Source/com/cathay/at/q0/trx/ATQ0_0170.java",
+		"/D/0100001027_view_1/workspace/CXLCS/Java Source/com/cathay/at/q0/trx/ATQ0_0160.java",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0160/ATQ00160.jsp",
+		"/C/Documents and Settings/0100001027/Application Data/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0120/ATQ00120.jsp",
+		"/D/0100001027_view_1/workspace/CXLCS/Web Content/html/AT/Q0/ATQ0_0110/ATQ00110.jsp",
+		"/E/Downloads/test.sql",
+		"/E/Downloads/SignTest/index.html",
+		"/E/Downloads/SignTest/js/literallycanvas.js",
+		"/E/Downloads/SignTest/js/literallycanvas.min.js",
+		"/E/Downloads/SignTest/css/literally.css",
+		"/E/Downloads/演示文稿1.pptx",
+		"/E/Docs/NumberFormatter.js",
+		"/E/bookmarks_13-3-4.html",
+		"/D/IBM/WSAD_5.1.2/runtimes/base_v51/java/jre/lib/security/java.security",
+		"/C/WINDOWS/system32/drivers/etc/hosts",
+		"/E/Docs/literallycanvas-master/literallycanvas-master/lib/js/literallycanvas.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function",
+			"()}",
+			"function",
+			"()}",
+			"ctrl+space",
+			"},\n",
+			"logout()",
+			"confirm",
+			"capturePhoto",
+			"bank",
+			"anothersign",
+			"capturePhoto",
+			"anothersign",
+			"signarea_main",
+			"banklist",
+			"sbSQL.append(\"",
+			"\" + \"\\n\");",
+			"pageX",
+			"clear",
+			"Clear",
+			"ClearAction",
+			"clear",
+			"clear-button",
+			"button clear-button danger",
+			"this.strokeWidth = 3",
+			"strokeWidth",
+			"5",
+			"positionForEvent",
+			"pagex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								766,
+								766
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/index.js",
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/record.js",
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/db.js",
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/Downloads/turn.js-master/turn.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Downloads/turn.js-master/demos/magazine/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"cxluaa/node_modules/mongodb/install.js"
+			],
+			[
+				"atq00020",
+				"ATQ0_0020/ATQ00020.jsp"
+			],
+			[
+				"atq00150",
+				"ATQ0_0150/ATQ00150.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
