@@ -1,7 +1,7 @@
 var Record = require('../models/record.js');
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
+  res.render('index', { record: '' });
 };
 
 exports.mouse = function(req, res){
@@ -23,7 +23,11 @@ exports.mouse = function(req, res){
 
   newRecord.save(function(err) {
     if (err) {
-      //错误不做任何处理
+      // do nothing if error
     }
   });
+  
+  // forward to the index page
+  res.render('index', { record: newRecord });
+
 };

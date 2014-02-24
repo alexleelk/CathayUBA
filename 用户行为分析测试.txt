@@ -27,3 +27,7 @@ mongod --install --serviceName MongoDB --serviceDisplayName MongoDB --logpath D:
 
 把node加入服务
 sc create cxluaa binPath= D:\cxluaa\app.bat
+
+
+启动mongodb
+mongod --dbpath D:\tools\mongodb\data
