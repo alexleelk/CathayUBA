@@ -1,10 +1,9 @@
-
 /**
  * Module dependencies.
  */
 
 var express = require('express')
-  , http = require('http')
+  , https = require('https')
   , path = require('path')
   , fs = require('fs')
   , MongoStore = require('connect-mongo')(express)
@@ -50,6 +49,11 @@ app.configure('production', function() {
 app.get('/', routes.index);
 app.get('/mouse', routes.mouse);
 
-http.createServer(app).listen(app.get('port'), function(){
+var options : {
+  key: fs.readFileSync('cert/server.key','UTF-8'),
+  cert: fs.readFileSync('cert/52toubao2013.kdb','UTF-8')
+};
+
+https.createServer(options,app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
 });
