@@ -31,3 +31,4 @@ sc create cxluaa binPath= D:\cxluaa\app.bat
 
 Æô¶¯mongodb
 mongod --dbpath D:\tools\mongodb\data
+mongod --dbpath ~/mongodata
