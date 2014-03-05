@@ -49,9 +49,9 @@ app.configure('production', function() {
 app.get('/', routes.index);
 app.get('/mouse', routes.mouse);
 
-var options : {
-  key: fs.readFileSync('cert/server.key','UTF-8'),
-  cert: fs.readFileSync('cert/52toubao2013.kdb','UTF-8')
+var options = {
+  key: fs.readFileSync('cert/52toubao.key'),
+  cert: fs.readFileSync('cert/52toubao.pem')
 };
 
 https.createServer(options,app).listen(app.get('port'), function(){
