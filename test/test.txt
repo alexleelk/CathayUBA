@@ -1,34 +1,23 @@
-http://localhost:3000/mouse?memberId=alex&elementName=testdiv&pathName=xxxxxx&queryString=abc
+http://localhost:3000/mouse
 
-http://localhost:3000/mouse?memberId=alex&elementName=testdiv&pathName=xxxxxx&queryString=abc
-
-http://localhost:3000/mouse?memberId=alex&elementName=testdiv&pathName=KAC6_1300/next&queryString=PROD_ID=SAX,PROD_TP=1
-
-common.css
-cxluaa.js
-common_css_and_js.jsp
-header.jsp
-specialized_js.jsp
-
-KAC6_1100.jsp
-
- class="cxluaaBlur cxluaaClick"
-
+mongodb:
 use cxluaa
 db.records.find({"timestamp":{"$gt":new Date("2013/06/03")}});
 db.records.count({"timestamp":{"$gt":new Date("2013/06/03")}});
 
+运行node，已写成app.bat
 set NODE_ENV=production
 node app.js
 
-
+另外
 把mongodb加入服务
 mongod --install --serviceName MongoDB --serviceDisplayName MongoDB --logpath D:\mongodb\dblog\MongoDB.log --dbpath D:\mongodb\dbdata --directoryperdb --service
 
-把node加入服务
+把uba加入服务
 sc create cxluaa binPath= D:\cxluaa\app.bat
 
-
 启动mongodb
+windows
 mongod --dbpath D:\tools\mongodb\data
+linux或者mac
 mongod --dbpath ~/mongodata

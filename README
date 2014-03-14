@@ -1,0 +1,49 @@
+用户行为分析使用方法
+
+在页面的head中定义所有使用的css和js模块，使用
+<jsp:include page="/html/KA/common/common_css_and_js.jsp"/>
+其中包含了jquery、jquery-ui、google analytics
+<link href="/html/KA/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/html/KA/C6/css/KAC6.css" rel="stylesheet" type="text/css" />
+<link href="/html/KA/css/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css" />
+<script src="/html/KA/js/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/html/KA/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+<script src="/html/KA/js/third-party.js" type="text/javascript"></script>
+
+在页面底部body的上方加上自己的js文件，使用
+<jsp:include page="/html/KA/common/specialized_js.jsp"/>
+其中包含了cxluaa的模块，注意该模块必须晚于jquery和head.jsp，其内容为
+<script src="/html/KA/js/style.js" type="text/javascript"></script>
+<script src="/html/KA/js/indexmenu.js" type="text/javascript"></script>
+<script src="/html/KA/js/cxluaa.js" type="text/javascript"></script>
+
+每个页面要包含head.jsp，其中有一段处理登录帐号的全局变量，如下。
+	// 定义全局变量，并且防止其被其他程序更改。by Alex 2013-5-17
+	var GLOBAL_PARAMS = function(){
+		var loginId = "<%=loginId%>";
+		return {
+			getLoginId: function() {
+				return loginId;
+			},
+			setLoginId: function(x) {
+				loginId = x;
+			}
+		}
+	}();
+
+需要收集用户行为的页面元素需要一个额外的属性data-uba：
+以下举一个例子说明。
+<div id="scsymn" data-uba="element_name">
+  	<a href="/servlet/HttpDispatcher/KAC6_1100/index">商城首页</a>
+</div>
+会记录鼠标的mouseover事件和click事件。
+
+目前记录的数据有：
+sessionid
+会员号
+ip地址
+时间戳
+页面元素名称
+URL地址
+URL查询参数
+mouseover或click
